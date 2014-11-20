@@ -1,5 +1,5 @@
 
-FROM    makuk66/docker-oracle-java7
+FROM    dockerfile/java:oracle-java7
 MAINTAINER  Martijn Koster "mak-docker@greenhills.co.uk"
 
 ENV SOLR_VERSION 4.10.2
